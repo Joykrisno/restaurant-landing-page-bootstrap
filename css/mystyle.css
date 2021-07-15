@@ -1,0 +1,24 @@
+/* 
+======================================================
+                Top Banner Design
+======================================================
+*/
+.top_banner {
+    width: 100%;
+    background: url('../images/banner.jpg') no-repeat center;
+    background-size: cover;
+    padding: 270px 150px;
+}
+
+/* 
+======================================================
+                Counter Section
+======================================================
+*/
+.counter-section {
+    background-color: var(--primary-color);
+    padding: 40px;
+}
+.counter-section p {
+    color: var(--white-color)
+}
