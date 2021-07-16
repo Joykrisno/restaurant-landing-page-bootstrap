@@ -194,6 +194,10 @@ i {
     font-size: 20px;
 }
 
+.navigation-wrap .main-btn:hover{
+    color: var(--primary-color) !important;
+}
+
 /* Change Navbar style when scroll */
 .navigation-wrap.scroll-on {
     position: fixed;

@@ -1,0 +1,44 @@
+@media (max-width: 1024px) {
+    
+}
+
+@media (max-width: 991px) {
+    /* Custom Classes */
+    .text-content {
+        width: 100%;
+    }
+
+    /* Nav Brand */
+    .navigation-wrap .navbar-brand img {
+        height: 61px;
+    }
+    .navigation-wrap .navbar-collapse{
+        text-align: center;
+        background-color: var(--white-color);
+    }
+    .navigation-wrap .nav-link {
+        line-height: 30px;
+    }
+
+    /* Banner */
+    .top_banner {
+        padding: 150px 0 150px;
+    }
+}
+
+@media (max-width: 767px) {
+    /* Custom Css */
+    h1 {
+        font-size: 41px;
+    }
+    h2 {
+        font-size: 32px;
+        line-height: 33px;
+    }
+
+    /* Top Banner */
+    .top_banner {
+        padding: 174px 0 150px;
+    }
+
+}
