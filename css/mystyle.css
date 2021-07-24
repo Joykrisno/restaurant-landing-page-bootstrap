@@ -150,3 +150,15 @@
     margin-right: 6px;
     font-size: 24px;
 }
+
+
+.book-food {
+    width: 100%;
+    background: linear-gradient(0deg, rgb(0 0 0 / 29%), rgb(0 0 0 / 29%)), url(../images/bg-1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 0 74px;
+    padding: 70px;
+}
