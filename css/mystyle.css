@@ -193,6 +193,9 @@
     border-color: var(--primary-color);
 }
 
+.newsletter button:hover{
+    color: var(--primary-colo) !important;
+}
 
 /* 
 ================================================
