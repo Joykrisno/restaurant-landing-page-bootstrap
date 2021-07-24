@@ -22,3 +22,45 @@
 .counter-section p {
     color: var(--white-color)
 }
+
+
+/* 
+======================================================
+                About Section
+======================================================
+*/
+.about-section .card,
+.about-section .card img {
+    border-radius: 10px;
+}
+
+.food-type {
+    margin-top: 150px;
+}
+
+.food-type ul li {
+    color: var(--text-color);
+    font-size: 16px;
+}
+
+.food-type ul li i {
+    color: var(--primary-color);
+    margin-right: 10px;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.about-section .text-sec{
+    padding-left: 32px;
+}
+
+.about__img {
+    width: 656px;
+}
+
+.story-section {
+    width: 100%;
+    height: 452px;
+    background: url(../images/about-bg-2.jpg) no-repeat center;
+    background-size: cover;
+}

@@ -204,6 +204,6 @@ i {
     top: 0;
     left: 0;
     background: var(--white-color);
-    box-shadow: 0 2 28 0 rgb((0, 0, 0, 0.9);
+    box-shadow: 0px 4px 5px 0px rgba(0,0,0,0.31);
 }
 
