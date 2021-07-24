@@ -44,15 +44,15 @@ html {
 ================================ 
 */
 
-::-webkit-scrollbar{
+/* ::-webkit-scrollbar{
     width: 0.625rem;
 }
 ::-webkit-scrollbar-track{
-    background: var(--white-color);
+    background: var(--primary-font);
 }
 ::-webkit-slider-thumb{
     background: var(--primary-color);
-}
+} */
 
 h1{
     font-size: 3rem;
