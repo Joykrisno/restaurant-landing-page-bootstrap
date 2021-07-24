@@ -41,4 +41,17 @@
         padding: 174px 0 150px;
     }
 
+    /* About Section */
+    .about__img {
+        width: 100%;
+    }
+
+    /* Story Section */
+    .story-section {
+        height: auto;
+        padding: 48px 0;
+    }
+
+
+
 }
