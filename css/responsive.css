@@ -32,10 +32,13 @@
         font-size: 41px;
     }
     h2 {
-        font-size: 32px;
+        font-size: 23px;
         line-height: 33px;
     }
-
+    .wrapper {
+        padding-top: 74px;
+        padding-bottom: 74px;
+    }
     /* Top Banner */
     .top_banner {
         padding: 174px 0 150px;
@@ -61,6 +64,12 @@
     .newsletter .main-btn {
         width: 100%;
         margin-top: 16px;
+    }
+
+    /* footer */
+    .footer .footer-link,
+    .footer a i {
+        padding: 0 10px;
     }
 
 
